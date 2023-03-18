@@ -988,7 +988,7 @@ There are two other coordinate systems that are occasionally helpful.
 
 2.  What's the difference between `coord_quickmap()` and `coord_map()`?
 
-3.  What does the following plot tell you about the relationship between city and highway mpg?
+3.  What does the following plot tell you about the relationship between cty and highway mpg?
     Why is `coord_fixed()` important?
     What does `geom_abline()` do?
 
